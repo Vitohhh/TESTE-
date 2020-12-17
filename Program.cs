@@ -26,6 +26,7 @@ namespace Teste
         string teste;
 
         int valor;
-        
+
+        string teste1;
     }
 }
